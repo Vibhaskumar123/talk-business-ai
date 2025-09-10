@@ -1,12 +1,6 @@
 # Welcome to the agentic AI Project
 
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/0c74aa58-7984-4e29-9d6b-ae2b46b81c08) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
