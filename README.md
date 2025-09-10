@@ -1,12 +1,5 @@
-# Welcome to your Lovable project
+# Welcome to the agentic AI Project
 
-## Project info
-
-**URL**: https://lovable.dev/projects/0c74aa58-7984-4e29-9d6b-ae2b46b81c08
-
-## How can I edit this code?
-
-There are several ways of editing your application.
 
 **Use Lovable**
 
